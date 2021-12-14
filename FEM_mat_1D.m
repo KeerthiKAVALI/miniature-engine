@@ -30,7 +30,3 @@ for i=1:Nelem
 end
 end
 
-
-
-
-
